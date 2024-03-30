@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lishuai-97, a Master of Mathematics and a Ph.D. student in Computer Science
+- 👋 Hi, I’m @lishuai-97, a Master of Mathematics and a Ph.D. student in Computer Science.
 - 👀 I’m interested in Mechine Learning and Deep Learning.
 - 🌱 I’m currently learning High Performance Computing.
 - 💞️ I’m looking to collaborate on ...
