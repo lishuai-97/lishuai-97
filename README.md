@@ -4,7 +4,7 @@
 - 🌱 Currently learning High Performance Computing.
 - ⚡ Using Python & C++.
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
-- 📫 How to reach me ...
+- 📫 Email: lishuai.math16@gmail.com
 
 <!--
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
