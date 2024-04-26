@@ -2,7 +2,7 @@
 - 😄 Dived into DL due to modest mathematical talent. 
 - 👀 Interested in Mechine Learning, Deep Learning and AI+HPC.
 - 🌱 Currently learning High Performance Computing.
-- ⚡ Using Python & C++.
+- ⚡ Using Python, C++ and LaTeX.
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 📫 Email: lishuai.math16@gmail.com
 
