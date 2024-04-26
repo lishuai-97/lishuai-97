@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lishuai-97, a Master of Mathematics and a rookie Ph.D. student in CS.
 - 😄 Dived into DL due to modest mathematical talent. 
-- 👀 Interested in Mechine Learning and Deep Learning.
+- 👀 Interested in Mechine Learning, Deep Learning and HPC-AI.
 - 🌱 Currently learning High Performance Computing.
 - ⚡ Using Python & C++.
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
