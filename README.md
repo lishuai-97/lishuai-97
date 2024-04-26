@@ -3,7 +3,7 @@
 - 👀 Interested in Mechine Learning and Deep Learning.
 - 🌱 Currently learning High Performance Computing.
 - ⚡ Using Python & C++.
-- 👯 Looking to collaborate on ...
+- 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 📫 How to reach me ...
 
 <!--
