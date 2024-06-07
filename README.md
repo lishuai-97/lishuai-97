@@ -1,4 +1,4 @@
-<!--
+
 - 👋 Hi, I’m @lishuai-97, a Master of Mathematics and a rookie Ph.D. student in CS.
 - 😄 Dived into DL due to modest mathematical talent. 
 - 👀 Interested in Mechine Learning, Deep Learning and AI+HPC.
@@ -7,10 +7,9 @@
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 📫 Email: lishuai.math16@gmail.com
 
-CS Ph.D. student at NUDT.
--->
 
 
+<!--
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
