@@ -7,10 +7,6 @@
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 📫 Email: lishuai.math16@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
 -->
