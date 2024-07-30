@@ -1,10 +1,7 @@
 
 - 👋 Hi, I’m @lishuai-97, a Master of Mathematics and a rookie Ph.D. student in CS.
-- 😄 Dived into DL due to modest mathematical talent. 
-- 👀 Interested in Mechine Learning, Deep Learning and HPC+AI.
-- 🌱 Currently learning High Performance Computing.
+- 👀 Interested in Computer Vision, LLMs and HPC+AI.
 - ⚡ Using Python, C++ and LaTeX.
-- 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 📫 Email: lishuai.math16@gmail.com
 
 
@@ -21,6 +18,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 😄 Dived into DL due to modest mathematical talent. 
+- 👀 Interested in Mechine Learning, Deep Learning and HPC+AI.
+- 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
+- 🌱 Currently learning High Performance Computing.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
