@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @lishuai-97, I hold both a Master’s and Bachelor’s degree in Mathematics from [BFU](http://www.bjfu.edu.cn/index.htm) and am currently a first-year Ph.D. student in CS.
+- 👋 Hi, I’m @lishuai-97, with a Master’s and Bachelor’s degree in Mathematics from [BFU](http://www.bjfu.edu.cn/index.htm), and currently a first-year Ph.D. student in CS.
 - 👀 Interested in Computer Vision, LLMs and HPC+AI.
 - ⚡ Using Python, C++ and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
