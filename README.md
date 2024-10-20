@@ -4,6 +4,10 @@
 - ⚡ Using Python, C++ and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
 
+<p align="center">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=lishuai-97&show_icons=true&hide=issues" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishuai-97&layout=compact" />
+</p>
 
 <!--
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +28,4 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
 - 🌱 Currently learning High Performance Computing.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
 -->
