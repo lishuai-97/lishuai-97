@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @lishuai-97, with a Master’s and Bachelor’s degree in Mathematics from [BJFU](http://www.bjfu.edu.cn/index.htm), and currently a first-year Ph.D. student in CS.
-- 👀 Interested in Computer Vision, LLMs and HPC+AI.
+- 👀 Interested in 3D Computer Vision, LLMs and HPC+AI.
 - ⚡ Using Python, C++ and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
 
