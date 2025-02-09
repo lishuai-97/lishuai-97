@@ -13,7 +13,7 @@
 -->
 
 
-<!--
+
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!--
 - 😄 Dived into DL due to modest mathematical talent. 
 - 👀 Interested in Mechine Learning, Deep Learning and HPC+AI.
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
