@@ -1,9 +1,9 @@
-<!--
+
 - 👋 Hi, I’m @lishuai-97, with a Master’s and Bachelor’s degree in Mathematics from [BJFU](http://www.bjfu.edu.cn/index.htm), and currently a first-year Ph.D. student in CS.
 - 👀 Interested in 3D Computer Vision, LLMs and HPC+AI.
 - ⚡ Using Python, C++ and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
--->
+
 
 <!--
 <p align="center">
@@ -13,7 +13,7 @@
 -->
 
 
-
+<!--
 **lishuai-97/lishuai-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--
+
 - 😄 Dived into DL due to modest mathematical talent. 
 - 👀 Interested in Mechine Learning, Deep Learning and HPC+AI.
 - 👯 Looking to collaborate on Computer Vision, LLMs and VLLMs.
