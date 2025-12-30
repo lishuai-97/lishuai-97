@@ -4,11 +4,6 @@
 - ⚡ Using Python, C++, CUDA and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
 
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-
 <!--
 <p align="center">
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=lishuai-97&show_icons=true&hide=issues&count_private=true" />
