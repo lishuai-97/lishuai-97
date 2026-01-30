@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @lishuai-97, with a Master’s and Bachelor’s degree in Mathematics from [BJFU](http://www.bjfu.edu.cn/index.htm), and currently a second-year Ph.D. student in CS.
-- 👀 Interested in ~~3D Computer Vision~~ Distributed Machine Learning, LLMs and HPC+AI.
+- 👀 Interested in ~~3D Computer Vision~~ Distributed Training and LLMs.
 - ⚡ Using Python, C++, CUDA and LaTeX.
 - 📫 Email: lishuai.math16@gmail.com
 
